@@ -3,7 +3,7 @@
 //  SalesAmount
 //
 //  Created by Sudip Khadka on 8/15/22.
-//
+//Take sales amount as an input and applies discount if sales amount is more then 100.
 
 #include <iostream>
 using namespace std;
